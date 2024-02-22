@@ -1,0 +1,27 @@
+{
+  "name": "first-threejs-game",
+  "version": "1.0.0",
+  "description": "my first threejs game",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleereza/first-threejs-game.git"
+  },
+  "keywords": [
+    "threejs",
+    "game",
+    "ai"
+  ],
+  "author": "Aleereza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleereza/first-threejs-game/issues"
+  },
+  "homepage": "https://github.com/aleereza/first-threejs-game#readme"
+}
