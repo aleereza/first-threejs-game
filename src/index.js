@@ -1,5 +1,5 @@
 import * as THREE from "three";
-import * as CANNON from "cannon";
+import * as CANNON from "cannon-es";
 
 // This code sets up a basic scene with a red sphere and a green ground plane.
 // The sphere will fall under gravity and collide with the ground.
